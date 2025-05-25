@@ -18,7 +18,7 @@ function App() {
 	return (
 		<>
 			<div className='intro'>
-				<h1>React Todo Application</h1>
+				<h1>🔥 React Todo Application 🔥</h1>
 				<p>For all your shitty tasks</p>
 			</div>
 			<div className='todo-container'>
