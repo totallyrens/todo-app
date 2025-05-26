@@ -30,7 +30,7 @@ function App() {
 						type='text'
 						value={userInput}
 						onChange={inputHandler}
-						class='todo-input'
+						class='todo-input radius'
 					/>
 					<button onClick={handleTodo} class='todo-button'>
 						Add Todo
